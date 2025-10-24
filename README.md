@@ -5,6 +5,7 @@ This Repository is done in accordance for my grade in the ITE1100 assignment. My
 Purpose: To practice GitHub collaboration using branches, commits, and pull requests.
 
 Steps: 
+
 -Created a repository and added a collaborator  
 - Created a new branch  
 - Added a file and committed changes  
